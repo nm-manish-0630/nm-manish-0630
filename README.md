@@ -4,5 +4,5 @@ You can click the Preview link to take a look at your changes.
 --->
 - I am a self-taught programmer, married to a beautiful lady.
 - I love to code in any language.
-- I work with C# and Angular mostly but recently I started learning Python as well.
+- I work with React and Angular mostly but recently I started learning Python as well.
 - Last but not the least GIT is my favorite life-savor Version Control System since the beginning.
